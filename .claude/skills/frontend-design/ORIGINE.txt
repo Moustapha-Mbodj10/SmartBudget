@@ -1,0 +1,3 @@
+Source : https://github.com/anthropics/skills/tree/main/skills/frontend-design (depot officiel Anthropic)
+Telecharge le : 2026-10-13
+Licence : voir LICENSE.txt

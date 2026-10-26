@@ -1,0 +1,11 @@
+# Sauvegardes de la base réelle (adresses e-mail et mots de passe hachés de vrais comptes) : jamais publiées
+/sauvegardes/
+
+# Documents personnels du mémoire (cahier des charges, mémoire) : à ajouter volontairement si besoin
+/Cahier des charges*.pdf
+/doc/*.pdf
+
+# Fichiers de poste
+.DS_Store
+Thumbs.db
+desktop.ini
